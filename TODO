@@ -7,3 +7,4 @@
 * Add a sitemap generator.
 * read templates from the templates folder per default
 * add support of github via ghg import
+*test git pull requests for bunnyman
